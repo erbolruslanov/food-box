@@ -131,7 +131,7 @@ header .container{
 }
 .col-4{
     width: 33.3333%;
-    padding: 0 -40px;
+    padding: 0 40px;
 }
 .large-row{
     display: flex;
